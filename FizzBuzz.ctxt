@@ -2,6 +2,4 @@
 comment0.target=FizzBuzz
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-comment2.params=n
-comment2.target=java.lang.String\ FizzBuzz(int)
-numComments=3
+numComments=2
